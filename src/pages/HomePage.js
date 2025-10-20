@@ -1,6 +1,6 @@
 import React, { useState} from 'react';
 import ResultsPage from './ResultsPage';
-//import { GOOGLE_CIVIC_API_KEY } from '@env';
+//import { STATE_API_KEY } from '@env';
 
 
 
@@ -33,11 +33,11 @@ function Homepage () {
 
 // when search button is hit this goes and fetches data from civic api based off the entered address
     const handleSearch = async () => {
-      // console.log("API Key from env:", process.env.REACT_APP_GOOGLE_CIVIC_API_KEY);
+     // console.log("API Key from env:", process.env.STATE_API_KEY);
 
       
-      // const apiKey = process.env.REACT_APP_GOOGLE_CIVIC_API_KEY; 
-      // const url = `https://civicinfo.googleapis.com/civicinfo/v2/representatives?key=${apiKey}&address=${encodeURIComponent(address)}`; 
+      //const apiKey = process.env.STATE_API_KEY; 
+     // const url = `https://v3.openstates.org/people.geo?lat=27.9944&lng=-81.7603&apikey=STATE_API_KEY`; 
 
       // try {
       //   const response = await fetch(url);
