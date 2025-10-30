@@ -1,6 +1,5 @@
 import React, { useState} from 'react';
 import ResultsPage from './ResultsPage';
-//import { STATE_API_KEY } from '@env';
 
 
 
@@ -10,58 +9,82 @@ const Input = ({ type, placeholder, value, onChange, style }) => {
       type={type}
       placeholder={placeholder}
       value={value}
-      onChange={onChange} // Forward the onChange event
+      onChange={onChange} 
       style={style}
     />
   );
 };
 
 
-
-function Homepage () {
-
-  const [address, setAddress] = useState(''); 
-  const [route, setRoute ]= useState('home');
-
+function Homepage() {
+  const [address, setAddress] = useState('');
+  const [route, setRoute] = useState('home');
   const [resultsData, setResultsData] = useState();
 
-  //when user inputs adress that adress gets stored in address variable (state)
   const handleAddressChange = (event) => {
-    setAddress(event.target.value); 
-    console.log("Address input:", event.target.value); 
+    setAddress(event.target.value);
+    console.log("Address input:", event.target.value);
   };
 
-// when search button is hit this goes and fetches data from civic api based off the entered address
-    const handleSearch = async () => {
-     // console.log("API Key from env:", process.env.STATE_API_KEY);
+  // Convert address/ZIP into latitude and longitude using OpenCage
+  const getCoordinates = async (input) => {
+    const geoKey = process.env.REACT_APP_GEO_CODING_KEY;
+    const url = `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(
+      input
+    )}&key=${geoKey}&countrycode=us`;
 
-      
-      //const apiKey = process.env.STATE_API_KEY; 
-     // const url = `https://v3.openstates.org/people.geo?lat=27.9944&lng=-81.7603&apikey=STATE_API_KEY`; 
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`HTTP error ${response.status}`);
 
-      // try {
-      //   const response = await fetch(url);
-        
-      //   if (!response.ok) {
-    
-      //     throw new Error(`Error: ${response.status} - ${response.statusText}`);
-      //   }
+      const data = await response.json();
 
-      //   const data = await response.json();
-      //   console.log("Civic API Response:", data); 
+      if (!data.results || data.results.length === 0) {
+        throw new Error("Location not found");
+      }
 
-        
-      //   setResultsData(data);
-        
-       
-        setRoute('results'); 
-        
-      // } catch (error) {
-      //   console.error("Failed to fetch data from the Civic API:", error);
-        
-      //   alert("Search failed. Please ensure the address is correct.");
-      // }
-    };
+      return {
+        lat: data.results[0].geometry.lat,
+        lon: data.results[0].geometry.lng,
+      };
+    } catch (error) {
+      console.error("Error fetching coordinates:", error);
+      alert("Couldn't find that location. Please try again.");
+      return null;
+    }
+  };
+
+  const handleSearch = async () => {
+    const apiKey = process.env.REACT_APP_STATE_API_KEY;
+
+    try {
+      const coords = await getCoordinates(address);
+      if (!coords) return;
+
+      const { lat, lon } = coords;
+      console.log("Latitude:", lat, "Longitude:", lon);
+
+      const response = await fetch(
+        `https://v3.openstates.org/people.geo?lat=${lat}&lng=${lon}`,
+        {
+          headers: { "X-API-KEY": apiKey },
+        }
+      );
+
+      if (!response.ok)
+        throw new Error(`Error: ${response.status} - ${response.statusText}`);
+
+      const data = await response.json();
+      console.log("OpenStates API Response:", data);
+
+      setResultsData(data.results);
+      setRoute("results");
+    } catch (error) {
+      console.error("Failed to fetch data from the OpenStates API:", error);
+      alert("Search failed. Please check your ZIP code or address.");
+    }
+  };
+
     let page = (<>
     <div
     style={{
@@ -126,7 +149,7 @@ function Homepage () {
   </div>
     </>);
     if(route === 'results'){
-      page = <ResultsPage/>;
+      page = <ResultsPage resultsData={resultsData} />;
     }
 
   return ( <div>
