@@ -4,9 +4,32 @@ import { colors } from '../UI/style';
 
 const ResultsPage = ({ resultsData = [] }) => {
   // Group by jurisdiction level
-  const federalReps = resultsData.filter(
+  let federalReps = resultsData.filter(
     (rep) => rep.jurisdiction?.classification === 'country'
   );
+
+   // Add hardcoded President and Vice President
+   const hardcodedFederalReps = [
+    {
+      id: 'president',
+      name: 'Donald Trump',
+      party: 'Republican',
+      current_role: { title: 'President of the United States of America' },
+      offices: [{ address: '1600 Pennsylvania Avenue, N.W. Office of the President Washington, DC, 20500' }],
+      image: require('../UI/PresidentImage.png'),
+    },
+    {
+      id: 'vice-president',
+      name: 'JD Vance',
+      party: 'Republican',
+      current_role: { title: 'Vice President of the United States of America' },
+      offices: [{address: '1600 Pennsylvania Avenue, N.W. Office of the Vice President Washington, DC, 20500' }],
+      image: require('../UI/VPImage.png'), 
+    },
+  ];
+
+  federalReps = [...hardcodedFederalReps, ...federalReps];
+
   const stateReps = resultsData.filter(
     (rep) => rep.jurisdiction?.classification === 'state'
   );
@@ -73,7 +96,7 @@ const ResultsPage = ({ resultsData = [] }) => {
         marginTop: '50px',
         gap: '40px',
       }}
-    >
+    > 
       {/* Federal */}
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px' }}>
         <Box sx={{
