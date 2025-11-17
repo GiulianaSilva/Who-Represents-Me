@@ -29,23 +29,28 @@ function Homepage() {
   // Convert address/ZIP into latitude and longitude using OpenCage
   const getCoordinates = async (input) => {
     const geoKey = process.env.REACT_APP_GEO_CODING_KEY;
-    const url = `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(
-      input
-    )}&key=${geoKey}&countrycode=us`;
-
+    const url = `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(input)}&key=${geoKey}&countrycode=us`;
+  
     try {
       const response = await fetch(url);
       if (!response.ok) throw new Error(`HTTP error ${response.status}`);
-
+  
       const data = await response.json();
-
+  
       if (!data.results || data.results.length === 0) {
         throw new Error("Location not found");
       }
-
+  
+      const firstResult = data.results[0]; // <-- declare a variable here
+  
       return {
-        lat: data.results[0].geometry.lat,
-        lon: data.results[0].geometry.lng,
+        lat: firstResult.geometry.lat,
+        lon: firstResult.geometry.lng,
+        state: firstResult.components.state,
+        municipality: firstResult.components.city ||
+                      firstResult.components.town ||
+                      firstResult.components.village,
+        postcode: firstResult.components.postcode,
       };
     } catch (error) {
       console.error("Error fetching coordinates:", error);
@@ -53,37 +58,75 @@ function Homepage() {
       return null;
     }
   };
-
+  
   const handleSearch = async () => {
     const apiKey = process.env.REACT_APP_STATE_API_KEY;
-
+  
     try {
       const coords = await getCoordinates(address);
       if (!coords) return;
-
-      const { lat, lon } = coords;
-      console.log("Latitude:", lat, "Longitude:", lon);
-
-      const response = await fetch(
+  
+      const { lat, lon, state, municipality } = coords;
+  
+      console.log("Latitude:", lat, "Longitude:", lon, "State:", state, "Municipality:", municipality);
+  
+      // --- Legislators (state + federal) ---
+      const geoResponse = await fetch(
         `https://v3.openstates.org/people.geo?lat=${lat}&lng=${lon}`,
-        {
-          headers: { "X-API-KEY": apiKey },
-        }
+        { headers: { "X-API-KEY": apiKey } }
       );
-
-      if (!response.ok)
-        throw new Error(`Error: ${response.status} - ${response.statusText}`);
-
-      const data = await response.json();
-      console.log("OpenStates API Response:", data);
-
-      setResultsData(data.results);
+  
+      if (!geoResponse.ok)
+        throw new Error(`Error: ${geoResponse.status} - ${geoResponse.statusText}`);
+  
+      const geoData = await geoResponse.json();
+      console.log("Legislators from people.geo:", geoData.results);
+  
+      // --- Governor ---
+      const govResponse = await fetch(
+        `https://v3.openstates.org/people?jurisdiction=${encodeURIComponent(state)}&org_classification=executive&per_page=50`,
+        { headers: { "X-API-KEY": apiKey } }
+      );
+  
+      if (!govResponse.ok)
+        throw new Error(`Error fetching governor: ${govResponse.status}`);
+  
+      const govData = await govResponse.json();
+      console.log("Governor:", govData.results);
+  
+      // --- Mayor ---
+      let mayor = null;
+      if (municipality) {
+        const mayorResponse = await fetch(
+          `https://v3.openstates.org/people?jurisdiction=${encodeURIComponent(municipality)}&org_classification=executive&per_page=50`,
+          { headers: { "X-API-KEY": apiKey } }
+        );
+  
+        if (!mayorResponse.ok)
+          throw new Error(`Error fetching mayor: ${mayorResponse.status}`);
+  
+        const mayorData = await mayorResponse.json();
+        mayor = mayorData.results[0];
+        console.log("Mayor:", mayor);
+      }
+  
+      // Combine everything for display
+      const allResults = [
+        ...(geoData.results || []),
+        ...(govData.results || []),
+      ].filter(Boolean);
+  
+      setResultsData(allResults);
       setRoute("results");
+  
     } catch (error) {
-      console.error("Failed to fetch data from the OpenStates API:", error);
+      console.error("Search failed:", error);
       alert("Search failed. Please check your ZIP code or address.");
     }
   };
+  
+
+  
 
     let page = (<>
     <div
