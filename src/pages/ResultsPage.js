@@ -3,12 +3,11 @@ import Box from '@mui/material/Box';
 import { colors } from '../UI/style';
 
 const ResultsPage = ({ resultsData = [] }) => {
-  // Group by jurisdiction level
+
   let federalReps = resultsData.filter(
     (rep) => rep.jurisdiction?.classification === 'country'
   );
 
-   // Add hardcoded President and Vice President
    const hardcodedFederalReps = [
     {
       id: 'president',
@@ -42,7 +41,7 @@ const ResultsPage = ({ resultsData = [] }) => {
     <Box
       key={rep.id}
       sx={{
-        width: 220,
+        width: 280,
         height: 420,
         borderRadius: 2,
         bgcolor: colors.PastelBlue.main,
@@ -60,6 +59,8 @@ const ResultsPage = ({ resultsData = [] }) => {
       <img
         src={rep.image || require('../UI/PfpPlaceHolder.png')}
         alt={rep.name}
+        onError={(e) => (e.currentTarget.src = require('../UI/PfpPlaceHolder.png'))}
+
         style={{
           width: 160,
           height: 160,
@@ -72,16 +73,16 @@ const ResultsPage = ({ resultsData = [] }) => {
         {rep.current_role?.title || 'Position N/A'}
       </div>
       <div style={{ fontSize: '0.9rem', fontWeight: 500 }}>
-        {rep.party || 'Party N/A'}
+        {rep.party || ''}
       </div>
       <div style={{ fontSize: '0.8rem' }}>
-        {rep.email || 'No email available'}
+        {rep.email || ''}
       </div>
       <div style={{ fontSize: '0.8rem' }}>
-        {rep.offices?.[0]?.voice || 'No phone'}
+        {rep.offices?.[0]?.voice || ''}
       </div>
       <div style={{ fontSize: '0.8rem' }}>
-        {rep.offices?.[0]?.address || 'No address'}
+        {rep.offices?.[0]?.address || ''}
       </div>
     </Box>
   );
@@ -100,7 +101,7 @@ const ResultsPage = ({ resultsData = [] }) => {
       {/* Federal */}
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px' }}>
         <Box sx={{
-          width: 200,
+          width: 300,
           height: 100,
           borderRadius: 1,
           bgcolor: colors.PastelRed.main,
@@ -119,7 +120,7 @@ const ResultsPage = ({ resultsData = [] }) => {
       {/* State */}
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px' }}>
         <Box sx={{
-          width: 200,
+          width: 300,
           height: 100,
           borderRadius: 1,
           bgcolor: colors.PastelRed.main,
@@ -139,7 +140,7 @@ const ResultsPage = ({ resultsData = [] }) => {
       {/* Local */}
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px' }}>
         <Box sx={{
-          width: 200,
+          width: 300,
           height: 100,
           borderRadius: 1,
           bgcolor: colors.PastelRed.main,
