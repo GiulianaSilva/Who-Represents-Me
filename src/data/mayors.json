@@ -1,0 +1,7001 @@
+[
+  {
+    "Municipality": "New York",
+    "Mayor": "Eric Adams",
+    "Email": "mayoreric@cityhall.nyc.gov",
+    "Address": "City Hall New York, NY 10007",
+    "Took office": "2022",
+    "Term ends": "2026",
+    "Mayoral election in 2025?": "Yes"
+  },
+  {
+    "Municipality": "Los Angeles",
+    "Mayor": "Karen Bass",
+    "Took office": "2022",
+    "Term ends": "2026",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Chicago",
+    "Mayor": "Brandon Johnson",
+    "Took office": "2023",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Houston",
+    "Mayor": "John Whitmire",
+    "Took office": "2024",
+    "Term ends": "2028",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Phoenix",
+    "Mayor": "Kate Gallego",
+    "Took office": "2019",
+    "Term ends": "2029",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Philadelphia",
+    "Mayor": "Cherelle Parker",
+    "Took office": "2024",
+    "Term ends": "2028",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "San Antonio",
+    "Mayor": "Gina Ortiz Jones",
+    "Took office": "2025",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "Yes"
+  },
+  {
+    "Municipality": "San Diego",
+    "Mayor": "Todd Gloria",
+    "Took office": "2020",
+    "Term ends": "2028",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Dallas",
+    "Mayor": "Eric Johnson",
+    "Took office": "2019",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "San Jose",
+    "Mayor": "Matt Mahan",
+    "Took office": "2023",
+    "Term ends": "2029",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Austin",
+    "Mayor": "Kirk Watson",
+    "Took office": "2023",
+    "Term ends": "2029",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Jacksonville",
+    "Mayor": "Donna Deegan",
+    "Took office": "2023",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Fort Worth",
+    "Mayor": "Mattie Parker",
+    "Took office": "2021",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "Yes"
+  },
+  {
+    "Municipality": "Columbus",
+    "Mayor": "Andrew J. Ginther",
+    "Took office": "2015",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Indianapolis",
+    "Mayor": "Joseph Hogsett",
+    "Took office": "2016",
+    "Term ends": "2028",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Charlotte",
+    "Mayor": "Vi Lyles",
+    "Took office": "2017",
+    "Term ends": "2025",
+    "Mayoral election in 2025?": "Yes"
+  },
+  {
+    "Municipality": "San Francisco",
+    "Mayor": "Daniel Lurie",
+    "Took office": "2025",
+    "Term ends": "2029",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Seattle",
+    "Mayor": "Bruce Harrell",
+    "Took office": "2022",
+    "Term ends": "2025",
+    "Mayoral election in 2025?": "Yes"
+  },
+  {
+    "Municipality": "Denver",
+    "Mayor": "Michael Johnston",
+    "Took office": "2023",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Nashville",
+    "Mayor": "Freddie O'Connell",
+    "Took office": "2023",
+    "Term ends": "2027",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Gainesville",
+    "Mayor": "Harvey Ward",
+    "Email": "wardhl@gainesvillefl.gov",
+    "Phone": "352-334-5016",
+    "Took office": "2022",
+    "Term ends": "2026",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Fort Lauderdale",
+    "Mayor": "Dean Trantalis",
+    "Address": "1 E. Broward Blvd. Floor 4 Fort Lauderdale, FL, 33301",
+    "Party": "Democrat",
+    "Took office": "2018",
+    "Term ends": "2028",
+    "Mayoral election in 2025?": "No"
+  },
+  {
+    "Municipality": "Miami",
+    "Mayor": "Francis Suarez",
+    "Took office": "2017",
+    "Term ends": "2025",
+    "Mayoral election in 2025?": "Yes"
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  },
+  {
+    "Municipality": "",
+    "Mayor": "",
+    "Took office": "",
+    "Term ends": "",
+    "Mayoral election in 2025?": ""
+  }
+]
