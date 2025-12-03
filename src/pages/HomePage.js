@@ -28,7 +28,7 @@ function Homepage() {
     console.log("Address input:", event.target.value);
   };
 
-  // Converts address/ZIP into latitude and longitude using OpenCage
+  // Converts address/zipcode into latitude and longitude using OpenCage
   const getCoordinates = async (input) => {
     const geoKey = process.env.REACT_APP_GEO_CODING_KEY;
     const url = `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(input)}&key=${geoKey}&countrycode=us`;
