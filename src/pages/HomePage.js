@@ -111,7 +111,7 @@ function Homepage() {
         ...(geoData.results || []),
         ...(govData.results || []),
       
-        localMayor ? {
+        localMayor && String(localMayor["Term ends"]) !== "2025" ? {
           id: `mayor-${localMayor.Municipality}`,
           name: localMayor.Mayor,
           party: localMayor.Party || "",
