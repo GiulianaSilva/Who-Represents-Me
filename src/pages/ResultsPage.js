@@ -2,7 +2,7 @@ import React from 'react';
 import Box from '@mui/material/Box';
 import { colors } from '../UI/style';
 
-const ResultsPage = ({ resultsData = [] }) => {
+const ResultsPage = ({ resultsData = [], onBack }) => {
 
   let federalReps = resultsData.filter(
     (rep) => rep.jurisdiction?.classification === 'country'
@@ -97,7 +97,24 @@ const ResultsPage = ({ resultsData = [] }) => {
         marginTop: '50px',
         gap: '40px',
       }}
-    > 
+    >
+       <button
+        onClick={onBack}
+        aria-label="Back to search"
+        title="Back to search"
+        style={{
+        padding: '8px',
+        fontSize: '4.5rem',
+        lineHeight: 1,
+        borderRadius: '50%',
+        border: 'none',
+        backgroundColor: 'transparent',
+        color: '#545454',
+        cursor: 'pointer',
+  }}
+  >
+  ←
+  </button> 
       {/* Federal */}
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '20px' }}>
         <Box sx={{

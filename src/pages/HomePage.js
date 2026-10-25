@@ -97,12 +97,13 @@ function Homepage() {
       console.log("Governor:", govData.results);
   
       
-      const normalizedMunicipality = municipality.trim().toLowerCase();
+      const normalizedMunicipality = municipality?.trim().toLowerCase();
 
-      
-      const localMayor = mayorData.find(entry =>
-        entry.Municipality.trim().toLowerCase() === normalizedMunicipality
-      );
+      const localMayor = normalizedMunicipality
+        ? mayorData.find(entry =>
+            entry.Municipality?.trim().toLowerCase() === normalizedMunicipality
+          )
+        : null;
       
       console.log("Local mayor match:", localMayor);
       
@@ -367,7 +368,12 @@ function Homepage() {
 
     </>);
     if(route === 'results'){
-      page = <ResultsPage resultsData={resultsData} />;
+      page = (
+        <ResultsPage
+          resultsData={resultsData}
+          onBack={() => setRoute('home')}
+        />
+      );
     }
 
   return ( <div>
