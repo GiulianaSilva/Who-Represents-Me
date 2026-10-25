@@ -4,12 +4,12 @@ This full-stack web application helps users identify their federal, state, and l
 
 # Why?
 
-Information about government representatives and civic resources can be spread across multiple websites, making it difficult to find relevant information in one place. This project aims to make that information more accessible by providing a centralized platform where users can identify their representatives, learn how to contact them, and find resources to stay informed and get involved.
+Information about government representatives and civic resources can be spread across multiple websites, making it difficult to find relevant information in one place. This project aims to make that information more accessible by providing a centralized platform where users can identify their representatives, learn how to contact them, and find informational resources. 
 
 # Key Features
 
 - Search for representatives by address or ZIP code.
-- Retrieve representative information using external APIs.
+- Integrate the OpenCage and OpenStates APIs to geocode user input and retrieve representative information.
 - Display representatives in organized, categorized results.
 - Provide contact information for representatives.
 - Link to relevant civic resources to help users find additional information and get involved.
